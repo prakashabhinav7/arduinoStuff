@@ -10,7 +10,7 @@ void setup() {
 
 
 void loop() {
-  digitalWrite(LED1, HIGH);    // turn on LED
+  digitalWrite(LED1, HIGH);    // turn on external LED
   delay(200);                  // wait
   digitalWrite(LED2, HIGH);
   delay(200);
